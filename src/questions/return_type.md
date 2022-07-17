@@ -15,3 +15,6 @@ const fn = (b: boolean) => {
 type FnReturn = ReturnType<typeof fn>
 // FnReturn => 'YES' | 'NO'
 ```
+
+<a href="../tools/return_type.ts"><img src="https://img.shields.io/badge/-code-blue"/></a>
+<a href="../tests/return_type.ts"><img src="https://img.shields.io/badge/-test-orange"/></a>

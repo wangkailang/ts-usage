@@ -1,0 +1,25 @@
+{
+  "name": "ts-usage",
+  "version": "0.0.1",
+  "description": "ts usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikadata/ts-usage.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "wangkailang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vikadata/ts-usage/issues"
+  },
+  "homepage": "https://github.com/vikadata/ts-usage#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}

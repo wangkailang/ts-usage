@@ -18,3 +18,6 @@ type O2 = MyPick<O1, 'a' | 'd'>;
 //   d?:  number;
 // }
 ```
+
+<a href="../tools/pick.ts"><img src="https://img.shields.io/badge/-code-blue"/></a>
+<a href="../tests/pick.ts"><img src="https://img.shields.io/badge/-test-orange"/></a>

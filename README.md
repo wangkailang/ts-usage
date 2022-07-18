@@ -1,5 +1,7 @@
 # ts-usage
 
+<img src="https://img.shields.io/badge/TS-Playground-yellowgreen"/>
+
 ## 问题
 
 - [ReturnType 获取返回值](./src/questions/return_type.md)

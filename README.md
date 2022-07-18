@@ -1,6 +1,6 @@
 # ts-usage
 
-<img src="https://img.shields.io/badge/TS-Playground-yellowgreen"/>
+<a href="https://www.typescriptlang.org/play"><img src="https://img.shields.io/badge/TS-Playground-yellowgreen"/></a>
 
 ## 问题
 

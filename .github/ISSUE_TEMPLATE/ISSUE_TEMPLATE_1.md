@@ -1,5 +1,6 @@
 ---
 name: Typescript 类型提问模板
+about: Typescript 类型提问模板
 ---
 
 ## 标题

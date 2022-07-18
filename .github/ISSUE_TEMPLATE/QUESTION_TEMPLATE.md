@@ -1,3 +1,7 @@
+---
+name: Typescript 类型提问模板
+---
+
 ## 标题
 
 `Template<T>`

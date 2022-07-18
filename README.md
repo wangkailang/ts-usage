@@ -1,6 +1,3 @@
----
-name: Typescript 类型提问模板
----
 # ts-usage
 
 <a href="https://www.typescriptlang.org/play"><img src="https://img.shields.io/badge/TS-Playground-yellowgreen"/></a>
